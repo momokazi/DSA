@@ -1,0 +1,2 @@
+D:\Uni\3rd Semester\self\test\x64\Debug\test.exe
+D:\Uni\3rd Semester\DSA\self 2\test\x64\Debug\test.exe

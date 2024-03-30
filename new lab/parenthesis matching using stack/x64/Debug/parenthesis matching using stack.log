@@ -1,0 +1,4 @@
+﻿  parenthesis matching using stack.cpp
+D:\3rd Semester\DSA\new lab\parenthesis matching using stack\parenthesis matching using stack.cpp(27): warning C4715: 'lab::push': not all control paths return a value
+D:\3rd Semester\DSA\new lab\parenthesis matching using stack\parenthesis matching using stack.cpp(38): warning C4715: 'lab::pop': not all control paths return a value
+  parenthesis matching using stack.vcxproj -> D:\3rd Semester\DSA\new lab\parenthesis matching using stack\x64\Debug\parenthesis matching using stack.exe

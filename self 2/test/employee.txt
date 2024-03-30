@@ -1,0 +1,284 @@
+Name: Momin
+Age: 19
+ID: 27
+-----------------
+
+ 
+ 
+Name: Momin
+Age: 19
+ID: 9
+-----------------
+
+Name: minmin
+Age: 10
+ID: 58
+-----------------
+
+Name: Loco
+Age: 90
+ID: 84
+-----------------
+
+ 
+ 
+ 
+ 
+ 
+Name: Momin
+Age: 20
+ID: 93
+-----------------
+
+Name: Nabiha
+Age: 17
+ID: 12
+-----------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: Momin
+Age: 20
+ID: 68
+-----------------
+
+Name: Nabiha
+Age: 17
+ID: 87
+-----------------
+
+Name: Breah
+Age: 20
+ID: 17
+-----------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: Momin
+Age: 20
+ID: 80
+-----------------
+
+Name: Nabiha
+Age: 56
+ID: 13
+-----------------
+
+Name: Kaz
+Age: 67
+ID: 46
+-----------------
+
+Name: Momin
+Age: 20
+ID: 100
+-----------------
+
+Name: Nb
+Age: 90
+ID: 33
+-----------------
+
+Name: Momin
+Age: 90
+ID: 49
+-----------------
+
+Name: m
+Age: 90
+ID: 30
+-----------------
+
+Name: momin
+Age: 19
+ID: 9
+-----------------
+
+Name: kiki
+Age: 90
+ID: 49
+-----------------
+
+Name: Momin
+Age: 20
+ID: 49
+-----------------
+
+Name: Nabiha
+Age: 17
+ID: 68
+-----------------
+
+Name: Momin
+Age: 20
+ID: 20
+-----------------
+
+Name: nabiha
+Age: 17
+ID: 43
+-----------------
+
+Name: breah
+Age: 20
+ID: 63
+-----------------
+
+Name: alizaye
+Age: 16
+ID: 82
+-----------------
+
+Name: Momin
+Age: 20
+ID: 20
+-----------------
+
+Name: nabiha
+Age: 17
+ID: 33
+-----------------
+
+Name: Momin
+Age: 20
+ID: 42
+-----------------
+
+Name: M
+Age: 22
+ID: 5
+-----------------
+
+Name: Momin
+Age: 20
+ID: 19
+-----------------
+
+Name: Momin
+Age: 20
+ID: 4
+-----------------
+
+Name: Daniyal
+Age: 21
+ID: 17
+-----------------
+
+Name: Nabiha
+Age: 18
+ID: 82
+-----------------
+
+Name: Momin
+Age: 20
+ID: 33
+-----------------
+
+Name: Daniyal
+Age: 21
+ID: 52
+-----------------
+
+Name: Nabiha
+Age: 18
+ID: 75
+-----------------
+
+Name: Momin
+Age: 20
+ID: 86
+-----------------
+
+Name: Daniyal
+Age: 21
+ID: 96
+-----------------
+
+Name: Momin
+Age: 20
+ID: 33
+-----------------
+
+Name: Daniyal
+Age: 21
+ID: 49
+-----------------
+
+Name: Nabiha
+Age: 18
+ID: 62
+-----------------
+
+Name: Momin
+Age: 20
+ID: 17
+-----------------
+
+Name: Momin
+Age: 20
+ID: 1
+-----------------
+
+Name: Momin
+Age: 20
+ID: 7
+-----------------
+
+Name: Daniyal
+Age: 21
+ID: 20
+-----------------
+
+Name: Nabiha
+Age: 18
+ID: 72
+-----------------
+
+Name: momo
+Age: 90
+ID: 52
+-----------------
+
+Name: kiki
+Age: 78
+ID: 78
+-----------------
+
+Name: lol
+Age: 90
+ID: 4
+-----------------
+
+Name: momo
+Age: 67
+ID: 1
+-----------------
+
+Name: lolo
+Age: 90
+ID: 14
+-----------------
+
+Name: momo
+Age: 90
+ID: 57
+-----------------
+
+Name: Momin
+Age: 20
+ID: 480
+-----------------
+

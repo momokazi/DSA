@@ -1,0 +1,5 @@
+﻿  stack test.cpp
+D:\3rd Semester\DSA\self\stack test\stack test.cpp(7,6): warning C4200: nonstandard extension used: zero-sized array in struct/union
+D:\3rd Semester\DSA\self\stack test\stack test.cpp(7,6): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+D:\3rd Semester\DSA\self\stack test\stack test.cpp(78): warning C4715: 'Stack::searchStack': not all control paths return a value
+  stack test.vcxproj -> D:\3rd Semester\DSA\self\stack test\x64\Debug\stack test.exe
